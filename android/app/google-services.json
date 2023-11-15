@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366130504389",
+    "project_id": "push-notifications-shestel",
+    "storage_bucket": "push-notifications-shestel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366130504389:android:88856ffd56fe243f3d86ac",
+        "android_client_info": {
+          "package_name": "com.shestel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366130504389-dcffsg7jip6i3hrd982ookkfjr20rub7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shestel.app",
+            "certificate_hash": "9cf7434e3df07dc365ba021db1e90d804ed8dd31"
+          }
+        },
+        {
+          "client_id": "366130504389-glav0f9o8af6g29rn90p1r8ke485ali5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8z7Jp3ujND9KCgbVh4LU7H61es6k1Xm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366130504389-glav0f9o8af6g29rn90p1r8ke485ali5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
